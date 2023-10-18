@@ -1,0 +1,7 @@
+{
+  "name": "i18nlang",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
